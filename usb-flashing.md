@@ -2,7 +2,7 @@
 
 ## Balena Etcher
 
-### Issue: Stuck on White Window
+### Issue: Stuck on White Window - Difficulty 1/10
 
 #### Diagnostics:
 - Users may encounter the error message: `Authorization required, but no authorization protocol specified`.
@@ -16,3 +16,4 @@
 
 #### Sources:
 - [Reddit thread discussing the "Authorization required" error](https://www.reddit.com/r/linux4noobs/comments/lu1plx/hi_i_get_this_authorization_required_but_no/) (Accessed: 9:01 AM CDT 5/11/24)
+- [Balena Etcher](https://github.com/balena-io/etcher/) (Accessed: 9:19 AM CDT 5/11/24)
