@@ -1,7 +1,3 @@
-Your `usb-flashing.md` file is a good start, providing a solution for a specific issue users might encounter when using Balena Etcher. Here's how you can improve it:
-
----
-
 # Help for Flashing USB (or similar) devices
 
 ## Balena Etcher
