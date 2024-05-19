@@ -1,6 +1,9 @@
 # Fixes
 This repository serves as a collection of solutions to common technical issues encountered by users across various platforms and software. Whether you're troubleshooting hardware, software, or system configurations, this repository aims to provide comprehensive solutions and suggestions.
 
+We aren't stack overflow; we encourage people to contribute even if the contribution isn't of expected quality. Another contributer may go over your post and improve it later.
+We believe anyones suggestion is worth contributing even if its not very usefull or pretty.
+
 # How to Contribute
 ## 1. Create an Issue
 When contributing to the repository, please follow the provided template for creating an issue. Here's a breakdown of what's required:
